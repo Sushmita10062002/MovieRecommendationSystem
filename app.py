@@ -14,8 +14,6 @@ import pandas as pd
 import pickle
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
-
-!pip install tmdbv3api
 from tmdbv3api import TMDb
 import json 
 import requests
