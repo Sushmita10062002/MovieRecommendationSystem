@@ -18,7 +18,7 @@ from tmdbv3api import TMDb
 import json 
 import requests
 tmdb = TMDb()
-tmdb.api_key = "7ed148e0bb5941c787c44f2c5c16c5cc"
+tmdb.api_key = ""
 
 # !pip install flask-ngrok
 
